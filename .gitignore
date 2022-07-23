@@ -1,0 +1,12 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# ipynb files
+*.ipynb_checkpoints
+trash.ipynb
+
+# data folder
+/data/test/
+/data/train/
+
